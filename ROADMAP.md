@@ -1,22 +1,22 @@
-# ☐ Whitespace
+# ☐ [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
 -
 -
 -
 <br>
 
-# ☐ Brainfuck
+# ☐ [Brainfuck](https://fr.wikipedia.org/wiki/Brainfuck)
 -
 -
 -
 <br>
 
-# ☐ Piet
+# ☐ [Piet](https://fr.wikipedia.org/wiki/Piet)
 -
 -
 -
 <br>
 
-# ☐ Befunge
+# ☐ [Befunge](https://fr.wikipedia.org/wiki/Befunge)
 -
 -
 -
